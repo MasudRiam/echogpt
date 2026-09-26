@@ -8,7 +8,6 @@
 *.tsbuildinfo
 
 # Environment and Secrets
-.env
 
 # Logs
 logs
@@ -29,9 +28,9 @@ Thumbs.db
 
 # IDEs and Editors
 /.idea
-/.vscode
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
+config.bat
